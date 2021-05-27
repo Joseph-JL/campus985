@@ -1,0 +1,69 @@
+{
+    "post0" : {
+       "colorOfMoodStatus" : 1,
+       "postTitle" : "余秋雨",
+       "postContent" : "阅读的最大理由是想摆脱平庸，早一天就多一份人生的精彩；迟一天就多一天平庸的困扰。",
+       "publishPosition": "北京",
+       "publishTime" : "",
+       "postStatus" : 0,
+       "defaultDisplay" : 0
+    },
+    "post1" : {
+       "colorOfMoodStatus" : 3,
+       "postTitle" : "歌德",
+       "postContent" : "人不光是靠他生来就拥有的一切，而是靠他从学习中所得到的一切来造就自己。",
+       "publishPosition": "北京",
+       "publishTime" : "",
+       "postStatus" : 0,
+       "defaultDisplay" : 0
+     },
+     "post2" : {
+       "colorOfMoodStatus" : 5,
+       "postTitle" : "罗曼·罗兰",
+       "postContent" : "学习是快乐的来源，即使你不在意自己将来有没有成就，单以目前的生活来说，学习也一定使你觉得满足。",
+       "publishPosition": "北京",
+       "publishTime" : "",
+       "postStatus" : 0,
+       "defaultDisplay" : 0
+     },
+     
+      "post4" : {
+        "colorOfMoodStatus" : 7,
+        "postTitle" : "高尔基",
+        "postContent" : "要热爱读书，它会使你生活轻松；它会友爱地帮助你了解纷繁复杂的思想、情感和事件；它会教导你尊重别人和你自己；它以热爱世界、热爱人类的情感来鼓舞智慧和心灵。",
+        "publishPosition": "北京",
+        "publishTime" : "",
+        "postStatus" : 0,
+        "defaultDisplay" : 0
+      },
+      "post3" : {
+        "colorOfMoodStatus" : 2,
+        "postTitle" : "马克思",
+        "postContent" : "任何时候，我也不会满足，越是多读书，就越是深刻地感到不满足，越感到自己知识贫乏。科学是奥妙无穷的。",
+        "publishPosition": "北京",
+        "publishTime" : "",
+        "postStatus" : 0,
+        "defaultDisplay" : 0
+      },
+      "post5" : {
+         "colorOfMoodStatus" : 4,
+         "postTitle" : "卡耐基",
+         "postContent" : "真正的读书使瞌睡者醒来，给未定目标者选择适当的目标。正当的书籍指示人以正道，使其避免误入歧途。",
+         "publishPosition": "北京",
+         "publishTime" : "",
+         "postStatus" : 0,
+         "defaultDisplay" : 0
+       },
+       "post6" : {
+         "colorOfMoodStatus" : 6,
+         "postTitle" : "莎士比亚",
+         "postContent" : "书籍是全世界的营养品。生活里没有书籍，就好像没有阳光；智慧里没有书籍，就好像鸟儿没有翅膀。",
+         "publishPosition": "北京",
+         "publishTime" : "",
+         "postStatus" : 0,
+         "defaultDisplay" : 0
+       }
+     
+
+
+}

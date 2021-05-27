@@ -1,0 +1,69 @@
+{
+    "post0" : {
+       "colorOfMoodStatus" : 1,
+       "postTitle" : "今天要加油呀(示例)",
+       "postContent" : "信念是巍巍大厦的栋梁，没有它，就只是一堆散乱的砖瓦;信念是滔滔大江的河床，没有它，就只有一片泛滥的波浪;信念是熊熊烈火的引星，没有它，就只有一把冰冷的柴把;信念是远洋巨轮的主机，没有它，就只剩下瘫痪的巨架。",
+       "publishPosition": "北京",
+       "publishTime" : "",
+       "postStatus" : 0,
+       "defaultDisplay" : 0
+    },
+    "post1" : {
+       "colorOfMoodStatus" : 3,
+       "postTitle" : "启程，just do it(示例)",
+       "postContent" : "只有启程，才会到达理想和目的地，只有拼搏，才会获得辉煌的成功，只有播种，才会有收获。只有追求，才会品味堂堂正正的人。",
+       "publishPosition": "北京",
+       "publishTime" : "",
+       "postStatus" : 0,
+       "defaultDisplay" : 0
+     },
+     "post2" : {
+       "colorOfMoodStatus" : 5,
+       "postTitle" : "坚持就是胜利(示例)",
+       "postContent" : "毅力，是千里大堤一沙一石的凝聚，一点点地累积，才有前不见头后不见尾的壮丽;毅力，是春蚕吐丝一缕一缕的环绕，一丝丝地坚持，才有破茧而出重见光明的辉煌;毅力，是远航的船的帆，有了帆，船才可以到达成功的彼岸。",
+       "publishPosition": "北京",
+       "publishTime" : "",
+       "postStatus" : 0,
+       "defaultDisplay" : 0
+     },
+     
+      "post4" : {
+        "colorOfMoodStatus" : 7,
+        "postTitle" : "行动起来(示例)",
+        "postContent" : "即使行动导致错误，却也带来了学习与成长；不行动则是停滞与萎缩。",
+        "publishPosition": "北京",
+        "publishTime" : "",
+        "postStatus" : 0,
+        "defaultDisplay" : 0
+      },
+      "post3" : {
+        "colorOfMoodStatus" : 2,
+        "postTitle" : "人生需要努力(示例)",
+        "postContent" : "人生，只有你自己想努力，才能真正的努力。这是任何人都无法用逼迫让你达到的目的，它只能是出由你自己内心的意愿，你才会真正的着手去调整，去完善，去提升，去塑造一个更好的自己。",
+        "publishPosition": "北京",
+        "publishTime" : "",
+        "postStatus" : 0,
+        "defaultDisplay" : 0
+      },
+      "post5" : {
+         "colorOfMoodStatus" : 4,
+         "postTitle" : "勤奋起来，好好学习(示例)",
+         "postContent" : "形成天才的决定因素应该是勤奋。有几分勤学苦练，天资就能发挥几分。天资的充分发挥和个人的勤学苦练是成正比例的。",
+         "publishPosition": "北京",
+         "publishTime" : "",
+         "postStatus" : 0,
+         "defaultDisplay" : 0
+       },
+       "post6" : {
+         "colorOfMoodStatus" : 6,
+         "postTitle" : "乐观一点呀(示例)",
+         "postContent" : "生活就像是一面镜子，你对它哭，它也对你哭;你对它笑，它也对你笑。所以我们要保持一颗快乐的心，用微笑去面对生活中的风风雨雨，生活就永远是温馨而美丽的春天。",
+         "publishPosition": "北京",
+         "publishTime" : "",
+         "postStatus" : 0,
+         "defaultDisplay" : 0
+       }
+     
+
+
+}
